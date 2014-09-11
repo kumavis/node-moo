@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy index.js castle-core.js --live --open -- -r os:typewise"
   },
   "author": "",
   "license": "BSD-2-Clause",
@@ -14,6 +15,12 @@
   "dependencies": {
     "iframe": "~0.2.0",
     "rtc-data-stream": "0.0.2",
-    "rtc-quickconnect": "~2.7.0"
+    "rtc-quickconnect": "~2.7.0",
+    "crdt": "~3.6.4",
+    "levelup": "~0.19.0",
+    "level-scuttlebutt": "~5.0.8",
+    "level-sublevel": "~6.3.11",
+    "level-js": "~2.1.6",
+    "udid": "~0.1.4"
   }
 }
