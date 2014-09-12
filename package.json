@@ -22,6 +22,7 @@
     "level-sublevel": "~6.3.11",
     "level-js": "~2.1.6",
     "udid": "~0.1.4",
-    "async": "~0.9.0"
+    "async": "~0.9.0",
+    "treeify": "~1.0.1"
   }
 }
