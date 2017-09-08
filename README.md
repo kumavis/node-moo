@@ -1,5 +1,7 @@
 ## Node-Moo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/node-moo.svg)](https://greenkeeper.io/)
+
 A modern moo, for me and you.
 
 #### Roadmap
